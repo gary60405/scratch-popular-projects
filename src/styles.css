@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/deeppurple-amber.css";
+
+* {
+  font-family: "微軟正黑體";
+  outline: none !important;
+  padding: 0px;
+  margin: 0px;
+}
+
+html, body {
+  background-color:#555 !important;
+  user-select: none;
+}
